@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+	<meta charset = "UTF-8">
+	<title>SIO Pathway to Industry 2017</title>
+	<link rel="icon" type="image/png" href="SIOLogo.png" />
+</head>
+<body>
+	<main>
+		<h1>SIO Pharmaceutical Industry Symposium 2017</h1>
+		<h2>Pathway to Industry</h2>
+		<figure>
+			
+			<img src="SIOSymposium.png"
+			width = "50%" alt="Benji and Lizzy">
+			<figcaption>Please join us for the SIO Pharmaceutical Industry Symposium</figcaption>
+
+		</figure>
+		<h3>Opening Reception</h3>
+		<ul>
+			<li>Date: Friday, February 24, 2017</li>
+			<li>Time: 6:00 PM</li>
+			<li>Location: Wyndham Pittsburgh University Center,  <a href="https://goo.gl/maps/c2TZHZcTAfL2">100 Lytton Ave, Pittsburgh, PA 15213</a> </li>
+		</ul>
+		<h3>Pathway to Industry Symposium</h3>
+		<ul>
+			<li>Date: Saturday, February 25, 2017</li>
+			<li>Time: 8:30 AM</li>
+			<li>Location: The University Club, <a href="https://goo.gl/maps/SjWU1jJk8ju"> 123 University Pl, Pittsburgh, PA 15260</a> </li>
+		</ul>
+		<p> Please join the Student Industry Organization for a Pharmaceutical Industry Symposium on Saturday, February 25th, 2017 at the University Club starting at 8:30 AM. This event will feature guest speakers, a keynote speakers, and various interactive activities. The symposium is open to students from all classes in the School of Pharmacy as well as PhD program students! Please join us for a great day of pharmaceutical industry networking. Dress is business casual (no leggings, no white coats) and please bring your nametag from P1 year if you still have it.  Breakfast and lunch will be provided! </p>
+
+		<p>This half-day symposium will feature:</p>
+		<ul>
+			<li>Breakfast</li>
+			<li>Speaker Introductions</li>
+			<li>Keynote Speaker</li>
+			<li>Lunch (hot buffet)</li>
+			<li>Applying for Fellowships</li>
+			<li>Round Tables</li>
+		</ul>
+
+		<CAPTION><b>Panelists will include:</b></CAPTION>
+			<table border="1">
+				<tr> 
+					<th>Name</th> 
+					<th>Company</th> 
+					<th>Position</th> 
+				</tr>
+				<tr> 
+					<td>Michael Tortorici</td> 
+					<td>CSL Behring</td> 
+					<td>Director of Clinical Pharmacology and Early Development</td>
+				</tr>
+				<tr>
+					<td>Rick Bertz</td>
+					<td>Bristol-Myers Squibb</td>
+					<td>VP &amp; Head, Clinical Pharmacology &amp; Pharmacometrics</td>
+				</tr>
+				<tr>
+					<td>Margie Zak</td>
+					<td>Sanofi</td>
+					<td>Senior Director, Diabetes Regional Medical Liaison Team</td>
+				</tr>
+				<tr>
+					<td>Janet Traynor</td>
+					<td>AstraZeneca</td>
+					<td>Senior Medical Science Liaison - Diabetes</td>
+				</tr>
+				<tr>
+					<td>Nicole Butteri</td>
+					<td>Bristol-Myers Squibb</td>
+					<td>Medical Science Liaison</td>
+				</tr>
+				<tr>
+					<td>Joe Fiore</td>
+					<td>Merck</td>
+					<td>Sr. Clinical Science, Oncology</td>
+				</tr>
+				<tr>
+					<td>Sajid Ahmed</td>
+					<td>Allergan</td>
+					<td>Health Science Associate, Medical Affairs</td>
+				</tr>
+				<tr>
+					<td>Alison Doherty</td>
+					<td>Merck</td>
+					<td>Post Doctoral Fellow, Oncology, Global Medical Affairs</td>
+				</tr>
+
+			</table>
+
+
+
+		<p>***Please RSVP using the form below by February 14, 2017***
+		<br> <a href="https://goo.gl/forms/gaukJ4EyVpsvvbrt2">Symposium RSVP Google Form</a> </br></p>
+		<p> If you have any questions, feel free to contact Katie Muzzio (kbm19 [at] pitt.edu) or Elizabeth Garcia (eag60 [at] pitt.edu).</p>
+	</main>
+	<footer>
+		<p> &copy; Copyright PittPharmacy Student Industry Organization 2017</p>
+	</footer>
+</body>
+</html>
